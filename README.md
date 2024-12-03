@@ -1,6 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=Venom&color=auto&height=300&section=header&text=HyoJin's%20Github&fontSize=85)
+![header](https://capsule-render.vercel.app/api?type=Venom&color=auto&height=200&section=header&text=HyoJin's%20Github&fontSize=80)
 
 ### 🤗Welcome to HyoJin's Github 🤗
 
