@@ -12,7 +12,7 @@
 
 ---
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 30px;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 50px;">
 
   <!-- GitHub Stats Section -->
   <div>
@@ -27,10 +27,10 @@
   <!-- Tech Stack Section -->
   <div>
     <h3>🚀 Tech Stack</h3>
-    <p>
-      <span style="color: #3776AB;">Python</span> | 
-      <span style="color: #00599C;">C++</span> | 
-      <span style="color: #007396;">Java</span>
+    <p style="font-size: 18px;">
+      <span style="color: #3776AB; font-weight: bold;">Python</span> |
+      <span style="color: #00599C; font-weight: bold;">C++</span> |
+      <span style="color: #007396; font-weight: bold;">Java</span>
     </p>
   </div>
 
