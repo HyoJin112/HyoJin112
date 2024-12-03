@@ -12,8 +12,4 @@
 ## 🚀 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 
-## ⏱ Weekly Coding Time
-![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=HyoJin's WakaTime&theme=radical)
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=HyoJin112.HyoJin)
 
