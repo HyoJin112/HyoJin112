@@ -1,6 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=Venom&color=auto&height=300&section=header&text=HYOJIN&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Venom&color=auto&height=300&section=header&text=Welcome to HyoJin's GithubN&fontSize=90)
 
-## Welcome to HyoJin's Github
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyoJin&show_icons=true&theme=onedark)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHyoJin112&count_bg=%230058E1&title_bg=%230055A2&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
