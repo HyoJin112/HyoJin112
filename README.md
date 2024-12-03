@@ -1,5 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=Venom&color=auto&height=300&section=header&text=Welcome%20to%20HyoJin's%20Github&fontSize=70)
 
+<div align="center">
+  
+# Welcome to  
+## HyoJin's Github
+
+</div>
+
+
 ## 🤗 About Me 🤗
 🔸 I’m currently learning: **AI and NLP**
 🔹 Interested in: **Korean Instruction Dataset, Korean LLMs, and NLP Research**
