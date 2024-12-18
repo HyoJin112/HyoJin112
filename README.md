@@ -8,7 +8,7 @@
 
 ## Introduction
 🔸 **I’m currently learning**: **AI and NLP**  
-🔹 **Interested in**: **Korean Instruction Dataset, Korean LLMs, and NLP Research**
+🔹 **Interested in**: **Korean Instruction Dataset, Korean LLMs, and NLP Research, Dataset Construction**
 
 ---
 
